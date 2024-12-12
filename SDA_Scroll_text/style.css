@@ -32,10 +32,8 @@
   
     > .grid-item {
       transform-style: preserve-3d;
-  
       font-size: 5vmin;
       font-weight: lighter;
-  
       text-wrap: nowrap;
   
       /* @supports (animation-timeline: scroll()) {
